@@ -1,23 +1,25 @@
-I am Dou Hu, an Assistant Professor at [Communication University of China (CUC)](https://en.cuc.edu.cn/). 
-Before that, I obtained my Ph.D. degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) and the [Institute of Information Engineering, Chinese Academy of Sciences (IIE CAS)](https://www.iie.ac.cn/) in 2025, under the supervision of [**Prof. Songlin Hu**](https://people.ucas.ac.cn/~husonglin?language=en). 
+I am DOU HU, a Postdoc Fellow at [The University of Hong Kong (HKU)](https://www.dase.hku.hk/). 
+Before that, I obtained my Ph.D. degree from the [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/) and the [School of Materials Science and Engineering, Northwestern Polytechnical University (NPU)](https://cailiao.nwpu.edu.cn/) in 2024, under the supervision of [**Prof. Qiangang Fu**](https://teacher.nwpu.edu.cn/fuqiangang.html). 
 
-My research interests include **natural language processing** and **machine learning**. 
-My research goal is to develop more intelligent, efficient, and trustworthy AI systems for language understanding and generation. 
-To achieve this, I am currently focused on general representation learning to enhance language models' generalization, robustness, trustworthiness, and safety, particularly in **representation learning theory** and **trustworthy large language models**.  
+My research interests include **Composites for Aerospace**, **ML-assited Lightweight Design** and **Extreme Manufacturing**. 
+My research goal is to develop more intelligent, efficient, and reliable design and manufacturing systems for structural composites under extreme environments. 
+To achieve this, I'm currently focused on multi-scale simulation & experiment verification to construct relationships between environments, materials and their processing methods, particularly in **Ultra-High Temperature Ceramics** and **Carbon-based Composites**.  
 
-Feel free to reach out to hudou [AT] cuc.edu.cn if you have anything you would like to discuss.
+Feel free to reach out to hudou@hku.hk if you have anything you would like to discuss.
 
-胡斗，中国传媒大学媒体融合与传播国家重点实验室助理研究员，研究方向是自然语言处理与机器学习，2025年6月博士毕业于中国科学院信息工程研究所。
-近五年来，聚焦表示学习理论及其在社会媒体分析和大模型安全领域的应用，以第一或通讯作者身份在ACL、AAAI、EMNLP等国内外会议/期刊发表论文16篇，包括CCF-A/清华A类论文10篇。
-入选2025年中国中文信息学会博士学位论文激励计划和中国传媒大学青年拔尖人才项目，曾获中国科学院院长特别奖、北京市优秀毕业生、SemEval国际最佳系统奖、4项国际语义测评竞赛冠军等。
-现任中国中文信息学会大模型与生成专委会委员，以及ACL、EMNLP、EACL等国际会议的领域主席。
+胡逗，香港大学数据与系统工程系博士后研究员（2024.10至今），研究方向是数据驱动极端环境碳基复合材料设计与制造，2024年3月博士毕业于西北工业大学材料学院。
+近五年来，聚焦多尺度模拟辅助极端环境解析及数据驱动碳基复合材料制造，以第一或通讯作者身份在Advanced Science (1)、Composites Part B-Engineering (2)、Journal of Materials Science and Technology (1)和Corrosion Science (4)等国内外SCI期刊发表论文20余篇。
+担任JMST, Carbon, Materials&Design,Journal of the European Ceramic Society等10余个SCI期刊审稿人，曾获全国百名研究生党员标兵、中国大学生自强之星、西北工业大学优秀研究生标兵、中国创新创业大赛全国银奖等荣誉奖励。
+
 
 # Research Interests
-- **Machine Learning for NLP**
-  - Information-theoretic Representation Learning
-  - Probabilistic Methods & Causal Reasoning
-  - Generalization & Robustness of Language Models
-  - Representation Learning for Trustworthy LLMs
-- **NLP Applications: Social Media Analysis and LLM Safety**
-  - Sentiment & Emotion Analysis
-  - Content Moderation & Safety of LLMs 
+- **Composites for Aerospace**
+  - Anti-oxidation Ceramic Coatings
+  - 3D-printed Composites
+
+- **ML-assited Lightweight Design**
+  - Machine Learning assisted Reverse Engineering
+
+- **Extreme Manufacturing**
+  - Multi-scale simulation (DFT, MD and FEA)
+  - Structural Composites for IC Manufacturing
