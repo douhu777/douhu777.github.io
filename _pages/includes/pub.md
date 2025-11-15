@@ -1,4 +1,4 @@
-# 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=ZSXX4ckAAAAJ&hl=en&oi=ao)
+# 📖 Selected Publications ([Full List])(https://scholar.google.com/citations?user=ZSXX4ckAAAAJ&hl=en&oi=ao)
 (\# represents corresponding author)
 
 - **A Multi-step Deposition Strategy for β-SiC Coatings on Cf/C Composites: Achieving Breakthrough Oxidation Resistance and Mechanical Properties**.   \
