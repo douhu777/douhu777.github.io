@@ -13,4 +13,4 @@
 - *Oct. 2023*: 🏆 I was selected as one of Chinese college student self-improvement stars.
 - *Apr. 2023*: 🎉 One paper is accepted at Journal of Materials Science and Technology.
 - *Nov. 2022*: 🏆 We won National silver medal at China International College Students' Innovation Competition 2022.
-- *Oct. 2022*: 🏆 I was selected as one of 10 Outstanding Postgraduate Students in NPU (2022年西北工业大学优秀研究生标兵).
+- *Oct. 2022*: 🏆 I was selected as one of 10 Outstanding Postgraduate Students in NPU.
