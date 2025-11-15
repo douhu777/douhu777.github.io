@@ -25,6 +25,10 @@
   Menglin Zhang, **Dou Hu**\#, Qiangang Fu\#. *Composites Part B-Engineering*.(<font color="red">Corresponding author, SCI-Q1</font>) <br>
   [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S1359836825004512)]
 
+- **Low-temperature preparation of C/C-W-Cu composites with enhanced particle impact and ablation resistance**. <br>
+  Zhijie Dong, Bing Liu, **Dou Hu**\#, Qiangang Fu\#. *Journal of Alloys and Compounds*.(<font color="red">Corresponding author</font>) <br>
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.jallcom.2024.177605)]
+
 - **Design of long-term ablation protective Zr0. 92Ta0. 04Si0. 04O2 coating via large lattice distortion and limited phase precipitation**. \
   **Dou Hu**, Xiaoxuan Li, Songlin Chen, Yutai Zhang, Zhe Fan, Kefei Yan, Qiangang Fu\#. *Corrosion Science*.(<font color="red">1st Place, SCI-Q1</font>) \
   [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010938X25000162)]
