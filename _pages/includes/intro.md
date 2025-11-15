@@ -1,5 +1,5 @@
 I am DOU HU, a Postdoc Fellow at [The University of Hong Kong (HKU)](https://www.dase.hku.hk/). 
-Before that, I obtained my Ph.D. degree from the [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/) and the [School of Materials Science and Engineering, Northwestern Polytechnical University (NPU)](https://cailiao.nwpu.edu.cn/) in 2024, under the supervision of [**Prof. Qiangang Fu**](https://teacher.nwpu.edu.cn/fuqiangang.html). 
+Before that, I obtained my Ph.D. degree from the [Northwestern Polytechnical University (NPU)](https://www.nwpu.edu.cn/) and the [School of Materials Science and Engineering](https://cailiao.nwpu.edu.cn/) in 2024, under the supervision of [**Prof. Qiangang Fu**](https://teacher.nwpu.edu.cn/fuqiangang.html). 
 
 My research interests include **Composites for Aerospace**, **ML-assited Lightweight Design** and **Extreme Manufacturing**. 
 My research goal is to develop more intelligent, efficient, and reliable design and manufacturing systems for structural composites under extreme environments. 
