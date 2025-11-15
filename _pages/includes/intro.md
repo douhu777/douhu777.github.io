@@ -15,11 +15,12 @@ Feel free to reach out to hudou@hku.hk if you have anything you would like to di
 # Research Interests
 - **Composites for Aerospace**
   - Anti-oxidation Ceramic Coatings
-  - 3D-printed Composites
+  - Multi-scale simulation (DFT, MD and FEA)
 
-- **ML-assited Lightweight Design**
-  - Machine Learning assisted Reverse Engineering
+- **AI-assited Lightweight Design**
+  - AI assisted High-throughput Reverse Engineering
+  - Modeling-Simulation-Experiment Feedback Design
 
 - **Extreme Manufacturing**
-  - Multi-scale simulation (DFT, MD and FEA)
-  - Structural Composites for IC Manufacturing
+  - 3D-printed Structural Composites
+  - Structural Composites for IC manufacturing
