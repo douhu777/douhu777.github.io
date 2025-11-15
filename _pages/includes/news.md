@@ -1,1 +1,17 @@
-# 🔥 News- *Oct. 2025*: 🎖 I was selected for 2025 CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划).- *Aug. 2025*: 🎉 One paper is accepted at EMNLP 2025. Congrats to Haonan Sheng!- *Jun. 2025*: 🎖 I received the CAS Presidential Scholarship - Special Prize (中国科学院院长特别奖).- *May. 2025*: 🎉🎉 Two papers are accepted at ACL 2025.- *Dec. 2024*: 🎉 One paper is accepted at AAAI 2025.- *May. 2024*: 🎉 One paper is accepted at ACL 2024.- *Feb. 2024*: 🎉 One paper is accepted at LREC-COLING 2024. Congrats to Yinan Bao!- *Dec. 2023*: 🎉 One paper is accepted at ICASSP 2024. Congrats to Lingwei Wei!- *Dec. 2023*: 🎉 One paper is accepted at AAAI 2024 (Oral).- *Jul. 2023*: 🏆 I received the Best System Award at Afrisenti-SemEval 2023.- *May. 2023*: 🎉🎉 Two papers are accepted at ACL 2023.- *Mar. 2023*: 🏆 We won 1st Place in SemEval 2023 Task 12.
+# 🔥 News
+
+- *Nov. 2025*: 🎉 One paper is accepted at Advanced Science and personal profile reached 1000 citations.
+- *Aug. 2025*: 🎉 One invention patent is granted at Composites Part B-Engineering.
+- *Aug. 2025*: 🎉 One paper is accepted at Composites Part B-Engineering.
+- *Apr. 2025*: 🎉 Two papers are accepted at Journal of the European Ceramic Society and Composites Part B-Engineering.
+- *Jan. 2025*: 🎉 One paper is accepted at Corrosion Science.
+- *Oct. 2024*: 🎖  I joined HKU and worked a postdoc fellow in the Department of Data and Systems Engineering.
+- *Apr. 2024*: 🏆 I was selected as one of Representatives of Outstanding Graduate Students in NPU.
+- *Mar. 2024*: 🎖  I was awarded Doctor of Engineering degree from Northwestern Polytechnical University (NPU).
+- *Feb. 2024*: 🏆 I was selected as one of 100 Outstanding Postgraduate Party Members in Chinese Universities（2024）.
+- *Jan. 2024*: 🎉 One paper is accepted at Journal of the European Ceramic Society.
+- *Oct. 2023*: 🏆 I was selected as one of Chinese college student self-improvement stars（中国大学生自强之星）
+- *Apr. 2023*: 🎉 One paper is accepted at Journal of Materials Science and Technology.
+- *Nov. 2022*: 🏆 We won National silver medal at China International College Students' Innovation Competition 2022.
+- *Oct. 2022*: 🏆 I was selected as one of 10 Outstanding Postgraduate Students in NPU (2022年优秀研究生标兵).
+- *Jul. 2022*: 🎉 I gave an oral presentation at CICC 2022.

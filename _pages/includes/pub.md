@@ -1,94 +1,79 @@
-# 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=cSUULYAAAAAJ))
+# 📖 Selected Publications ([Full List](https://scholar.google.com/citations?user=ZSXX4ckAAAAJ&hl=en&oi=ao)
 (\# represents corresponding author)
 
-- **Regularized Contrastive Decoding with Hard Negative Samples for LLM Hallucination Mitigation**.   \
-  Haonan Sheng, **Dou Hu**\#, Lingwei Wei\#, Wei Zhou, Songlin Hu. *Findings of EMNLP 2025*. (<font color="red">CCF-B Findings</font>)  \
-  [[Paper](https://aclanthology.org/2025.findings-emnlp.322/)]
+- **A Multi-step Deposition Strategy for β-SiC Coatings on Cf/C Composites: Achieving Breakthrough Oxidation Resistance and Mechanical Properties**.   \
+  **Dou Hu**, Bing Liu, Xiaoxuan Li, Jia Sun, Tao Li\#, Yang Xu\#, Hejun Li, Qiangang Fu\#. *Advanced Science*. (<font color="red">CCF-B Findings</font>)  \
+  [[Paper](doi: 10.1002/advs.202517256)]
 
-- **Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding**.  \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2025*. (<font color="red">CCF-A</font>)  \
-  [[Paper](https://aclanthology.org/2025.acl-long.975/)]
+- **Response behavior and optimization strategy of UHTC–SiC dual‐layer coatings under high heat flux ablation environments**.  \
+  Xiaoxuan Li, Songlin Chen, Chenglong Tan, Zhicong Yan, **Dou Hu**\#, Qiangang Fu\#. *Journal of the American Ceramic Society*. (<font color="red">CCF-A</font>)  \
+  [[Paper](https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/jace.70030)]
 
-- **An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**.  \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *AAAI 2025*. (<font color="red">CCF-A</font>)  \
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33899)]
+- **Long-term performance optimization on (Hf-Zr-Ta-Nb)C coatings above 2000° C:Element, composition and ablation property**.  \
+  Xiaoxuan Li, Menglin Zhang, **Dou Hu**\#, Songlin Chen, Zhicong Yan, Qiangang Fu\#. *Journal of the European Ceramic Society*.(<font color="red">CCF-A</font>)  \
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0955221925002237)]
 
-- **Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection**. \
-  Lingwei Wei, **Dou Hu**\#, Wei Zhou, Philip S. Yu, Songlin Hu\#. *Findings of ACL 2025*. (<font color="red">CCF-A Findings</font>)  \
-  [[Paper](https://aclanthology.org/2025.findings-acl.505/)]
+- **Interlayer Modulus Mismatch and Shear-Lag Effect Dominated Failure Mechanisms in UHTCs-C/C Composites Under Multidirectional Loading**. \
+  Zhicong Yan, Bing Liu, Songlin Chen, Tianyu Liu\#, **Dou Hu**\#, Qiangang Fu\#. *Composites Part B-Engineering*. (<font color="red">CCF-A Findings</font>)  \
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S1359836825008340)]
   
-- **Representation Learning with Conditional Information Flow Maximization**. <br>
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2024*. (<font color="red">CCF-A</font>) <br>
-  [[Paper](https://aclanthology.org/2024.acl-long.759/)] [[Code](https://github.com/zerohd4869/CIFM)]
+- **Decoupled ablation behavior analysis of multilayer glass-UHTC coating for carbon-based composites: Laser and plasma ablation environments**. <br>
+  Xiaoxuan Li, Menglin Zhang, **Dou Hu**\#, Songlin Chen, Zhaofan Zhou, Zhijie Dong, Zhe Fan, Kefei Yan, Qiangang Fu\#. (<font color="red">CCF-A</font>) <br>
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0955221925004248)] 
   
-- **Structured Probabilistic Coding**. <br>
-  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *AAAI 2024*. (<font color="red">CCF-A, Oral</font>) <br>
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29142)] [[Code](https://github.com/zerohd4869/SPC)]
+- **Thermal protection mechanism of UHTCs-modified C/C composites in high temperature gas scouring coupling environments**. <br>
+  Menglin Zhang, **Dou Hu**\#, Qiangang Fu\#. *Composites Part B-Engineering*.(<font color="red">CCF-A, Oral</font>) <br>
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S1359836825004512)]
 
-- **Multi-stream Information Fusion Framework for Emotional Support Conversation**. \
-  Yinan Bao, **Dou Hu**, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. *LREC-COLING 2024*. (<font color="red">CCF-B</font>) \
-  [[Paper](https://aclanthology.org/2024.lrec-main.1046/)]
+- **Design of long-term ablation protective Zr0. 92Ta0. 04Si0. 04O2 coating via large lattice distortion and limited phase precipitation**. \
+  **Dou Hu**, Xiaoxuan Li, Songlin Chen, Yutai Zhang, Zhe Fan, Kefei Yan, Qiangang Fu\#. *Corrosion Science*.(<font color="red">CCF-B</font>) \
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010938X25000162)]
   
-- **Transferring Structure Knowledge: A New Task to Fake News Detection Towards Cold-Start Propagation**. \
-  Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *ICASSP 2024*. (<font color="red">CCF-B</font>) \
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10447588/)]
+- **Insights into service-derived Zr-Ta-O film: Morphology evolution, temperature resistance, and atomic bonding**. \
+  **Dou Hu**, Qiangang Fu\#, Zhijie Dong, Yutai Zhang, Xiaoxuan Li. (<font color="red">CCF-B</font>) \
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0955221923006908)]
 
-- **Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach**. \
-  Lingwei Wei, **Dou Hu**, Wei Zhou, Xin Wang, Songlin Hu. *TNNLS 2024*. (<font color="red">CCF-B, SCI-Q1</font>) \
-  [[Paper](https://ieeexplore.ieee.org/document/9837882)]
+- **Effects of air plasma flame on the ZrB2-based UHTC coatings: Microstructure, phase evolution and ablation resistance**. \
+  **Dou Hu**, Qiangang Fu\#, Lei Zhou, Xiaoxuan Li, Bing Liu. *Journal of Materials Science and Technology*.(<font color="red">CCF-B, SCI-Q1</font>) \
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S1005030223001603)]
 
-- **Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**. \
-  **Dou Hu**, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. *ACL 2023*. (<font color="red">CCF-A</font>) \
-  [[Paper](https://aclanthology.org/2023.acl-long.606/)] [[Code](https://github.com/zerohd4869/SACL)]
+- **Relationship analyses on environmental factors-ablation performance based on ZrC-TaC system: oxygen partial pressure and gas flow scouring**. \
+  **Dou Hu**, Yutai Zhang, Zhijie Dong, Hanhui Wang, Qiangang Fu\#. (<font color="red">CCF-A</font>) \
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0955221923000225)] 
 
-- **UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis**. \
-  **Dou Hu**, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. *SemEval@ACL 2023*. (<font color="red">1st Place, Best System Award</font>) \
-  [[Paper](https://aclanthology.org/2023.semeval-1.255/)] [[Code](https://github.com/zerohd4869/SACL/tree/main/SACL-XLMR)]
+- **Grain growth limitation in the monolayer ZrB2–SiC coating above 1700°C**. \
+  **Dou Hu**, Qiangang Fu\#, Lei Zhou, Xiaoxuan Li, Jiaping Zhang\#. (<font color="red">1st Place, Best System Award</font>) \
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0272884222004060)] 
 
-- **Modeling Both Intra-and Inter-Modality Uncertainty for Multimodal Fake News Detection**.  \
-  Lingwei Wei, **Dou Hu**, Wei Zhou, Songlin Hu. *TMM 2023*. (<font color="red">CCF-B, SCI-Q1</font>) \
-  [[Paper](https://ieeexplore.ieee.org/document/10261246)]
+- **Multiple cyclic ablation behaviors of multilayer ZrC-TaC coating with ZrC-SiC interface layer**.  \
+  **Dou Hu**, Qiangang Fu\#, Mingde Tong, Xiaoxuan Li. *Corrosion Science*.(<font color="red">CCF-B, SCI-Q1</font>) \
+  [[Paper](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0010938X22001330)]
   
-- **MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations**. \
-  **Dou Hu**, Xiaolong Hou, Lingwei Wei, Lianxin Jiang, Yang Mo. *ICASSP 2022*. (<font color="red">CCF-B</font>) \
-  [[Paper](https://arxiv.org/abs/2203.02385)] [[Code](https://github.com/zerohd4869/MM-DFN)]
+- **Design of ablation resistant Zr-Ta-O-C composite coating for service above 2400°C**. \
+  **Dou Hu**, Qiangang Fu\#, Zhijie Dong, Yutai Zhang, Zhaowei Wang. *Corrosion Science*.(<font color="red">CCF-B</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.corsci.2022.110221)] 
 
-- **VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive Language Understanding**.  <br>
-  **Dou Hu**, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo, and Xiaofeng Shi. *Findings of EMNLP 2022*. (<font color="red">CCF-B Findings</font>) \
-  [[Paper](https://aclanthology.org/2022.findings-emnlp.468/)]
+- **Discussion on structural parameters of the multilayer ZrC/TaC coatings based on stress analysis and ablation behaviors**.  <br>
+  **Dou Hu**, Qiangang Fu\#, Xiaoxuan Li, Lei Zhou, Jiaping Zhang\#. (<font color="red">CCF-B Findings</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.surfcoat.2022.128243)]
 
-- **PALI at SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts**. \
-  Mengyuan Zhou, **Dou Hu**, Mengfei Yuan, Meizhi Jin, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
-  [[Paper](https://aclanthology.org/2022.semeval-1.153/)] 
+- **Self-healing improvement strategy of thermally sprayed MoSi2 coating at 1773 K: From calculation to experiment**. \
+  **Dou Hu**, Qiangang Fu\#, Lei Zhou, Bing Liu, Chunyu Cheng, Xiaoxuan Li, Jia Sun. *Corrosion Science*.(<font color="red">1st Place</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.corsci.2021.109599)] 
  
-- **PALI-NLP at SemEval-2022 Task 6: iSarcasmEval- Fine-tuning the Pre-trained Model for Detecting Intended Sarcasm**. \
-  Xiyang Du, **Dou Hu**, Meizhi Jin, Lianxin Jiang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
-  [[Paper](https://aclanthology.org/2022.semeval-1.112/)] 
+- **Crack development behavior in thermally sprayed anti-oxidation coating under repeated thermal-oxygen coupling environment**. \
+  **Dou Hu**, Qiangang Fu\#, Lei Zhou, Bing Liu, Jia Sun\#. (<font color="red">1st Place</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.ceramint.2021.02.098)] 
 
-- **PAIC at SemEval-2022 Task 5: Multi-Modal Misogynous Detection in MEMES with Multi-Task Learning and Multi-model Fusion**. \
-  Meizhi Jin, Mengyuan Zhou, Mengfei Yuan, **Dou Hu**, Xiyang Du, Lianxin Jiang, Yang Mo, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">2nd Place</font>) \
-  [[Paper](https://aclanthology.org/2022.semeval-1.76/)]
+- **Multi-layered structural designs of MoSi2/mullite anti-oxidation coating for SiC-coated C/C composites**. \
+  **Dou Hu**, Qiangang Fu\#, Bing Liu, Lei Zhou, Jia Sun\#. (<font color="red">2nd Place</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.surfcoat.2021.126901)]
   
-- **PALI-NLP at SemEval-2022 Task 4: Discriminative Fine-tuning of Transformers for Patronizing and Condescending Language Detection**. \
-  **Dou Hu**, Zhou Mengyuan, Xiyang Du, Mengfei Yuan, Jin Zhi, Lianxin Jiang, Mo Yang, Xiaofeng Shi. *SemEval@NAACL 2022*. (<font color="red">1st Place</font>) \
-  [[Paper](https://aclanthology.org/2022.semeval-1.43/)]
+- **Stress design of a laminated MoSi2/Cr coating under particle impact and high temperature environment**. \
+  **Dou Hu**, Qiangang Fu\#, Lei Zhou, Yuyu Zhang, Guangpeng Zhang. (<font color="red">1st Place</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.ceramint.2020.01.076)]
 
-- **Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection**. \
-  Lingwei Wei, **Dou Hu**, Wei Zhou, Zhaojuan Yue, Songlin Hu. *ACL-IJCNLP 2021*. (<font color="red">CCF-A, Oral</font>) \
-  [[Paper](https://aclanthology.org/2021.acl-long.297/)] 
+- **Structural design and ablation performance of ZrB2/MoSi2 laminated coating for SiC coated carbon/carbon composites**. \
+  **Dou Hu**, Qiangang Fu\#, Tianyu Liu, Mingde Tong. *Journal of the European Ceramic Society*.(<font color="red">CCF-A, Oral</font>) \
+  [[Paper](https://doi-org.eproxy.lib.hku.hk/10.1016/j.jeurceramsoc.2019.09.046)] 
 
-- **DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations**. \
-  **Dou Hu**, Lingwei Wei, Xiaoyong Huai. *ACL-IJCNLP 2021*. (<font color="red">CCF-A, Oral</font>) \
-  [[Paper](https://aclanthology.org/2021.acl-long.547/)] [[Code](https://github.com/zerohd4869/DialogueCRN)]
-
-- **A Rumor Detection Approach based on Multi-relational Propagation Tree** (一种基于多关系传播树的谣言检测方法). \
-  **Dou Hu**, Lingwei Wei, Wei Zhou, Xiaoyong Huai, Jizhong Han, Songlin Hu. *Journal of Computer Research and Development 2021*. (<font color="red">CCF-A Chinese</font>) \
-  [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200810)] 
-
-- **Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis**. \
-  Lingwei Wei, **Dou Hu**\#, Wei Zhou\#, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. *ECML-PKDD 2020*. (<font color="red">CCF-B</font>) \
-  [[Paper](https://arxiv.org/abs/2007.08445)] [[Code](https://github.com/zerohd4869/HIN-SR)]
-
-- **SLK-NER: exploiting second-order lexicon knowledge for Chinese NER**. \
-  **Dou Hu**, Lingwei Wei. *SEKE 2020*. \
-  [[Paper](https://arxiv.org/abs/2007.08416)] [[Code](https://github.com/zerohd4869/SLK-NER)]
