@@ -1,11 +1,10 @@
 
 
-Statement: The template used for this project is from [https://github.com/RayeRen/rayeren.github.io](https://github.com/RayeRen/rayeren.github.io).
+Statement: The template used for this project is from [https://github.com/RayeRen/rayeren.github.io](https://github.com/RayeRen/rayeren.github.io) and hudou95 (CUC).
 
 
 Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://hudou95.github.io/)
+- [Personal Homepage of the author](https://douhu777.github.io/)
 
 ## Key Features
 - **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
