@@ -1,5 +1,6 @@
 # 🔥 News
-
+- *July. 2026: 🏆 I was awarded the Graduate Student Innovation Award by Chinese Materials Research Society.
+- *May. 2026*: 🎉 Two papers were selected as Highly Cited Papers and Hot Papers, respectively.
 - *Nov. 2025*: 🎉 One paper is accepted at Advanced Science and personal profile reached 1000 citations.
 - *Aug. 2025*: 🎉 One invention patent is granted.
 - *Aug. 2025*: 🎉 One paper is accepted at Composites Part B-Engineering. Congratulations to Zhicong Yan!
